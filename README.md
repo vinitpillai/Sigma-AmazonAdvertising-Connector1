@@ -1,0 +1,1 @@
+# Sigma-AmazonAdvertising-Connector1
